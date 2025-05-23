@@ -3,7 +3,7 @@ Cybersecurity Awareness Assistant that interacts with users to provide education
 
 The user can select from predefined options or ask their own questions. The bot responds with detailed answers, simulating typing for a natural conversational feel. After each response, the user is asked if they want to continue or exit. The program ends when the user types "exit."
 
-Key features include:
+Key features include
 
 Personalized greetings.
 
