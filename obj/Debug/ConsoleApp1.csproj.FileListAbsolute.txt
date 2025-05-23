@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lab_services_student\Documents\Visual Studio 2022\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
